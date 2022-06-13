@@ -1,0 +1,48 @@
+{
+  "icons": [
+    {
+      "src": "icons/icon_512x512.45ceb72e8fd7df391bf4a3220eebe14b.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon_384x384.b2c128fdbdf066a894b688664dc2a8e7.png",
+      "sizes": "384x384",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon_256x256.b121250a364039865c2824de9aadc4c2.png",
+      "sizes": "256x256",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon_192x192.dc06337ca36976abf2971c43efb48096.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon_128x128.d7c4cd1836c8bb6f9e46f9aa046f4eda.png",
+      "sizes": "128x128",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon_96x96.33326aacb765716bd487c73b4c385b06.png",
+      "sizes": "96x96",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "name": "Hangouts: Restaurant Catalogue",
+  "short_name": "Hangouts",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "/index.html",
+  "description": "Restaurant Catalogue Web App",
+  "theme_color": "#94703A",
+  "background_color": "#ffffff"
+}
